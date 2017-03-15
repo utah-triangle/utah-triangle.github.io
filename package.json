@@ -1,0 +1,24 @@
+{
+  "name": "utah-triangle-website",
+  "version": "1.0.0",
+  "description": "Utah Triangle's Website Front End",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utah-triangle/utah-triangle.github.io.git"
+  },
+  "keywords": [
+    "Utah",
+    "Triangle",
+    "home"
+  ],
+  "author": "Utah Triangle Fraternity",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/utah-triangle/utah-triangle.github.io/issues"
+  },
+  "homepage": "https://github.com/utah-triangle/utah-triangle.github.io#readme"
+}
