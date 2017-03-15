@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/utah-triangle/utah-triangle.github.io/issues"
   },
-  "homepage": "https://github.com/utah-triangle/utah-triangle.github.io#readme"
+  "homepage": "https://github.com/utah-triangle/utah-triangle.github.io#readme",
+  "devDependencies": {
+    "pug": "^2.0.0-beta11",
+    "pug-cli": "^1.0.0-alpha6"
+  }
 }
